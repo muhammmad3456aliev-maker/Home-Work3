@@ -1,3 +1,4 @@
+
 * {
     margin: 0;
     padding: 0;
@@ -66,6 +67,8 @@ body {
     font-size: 12px;
     color: #777;
 }
+
+
 .section1 {
     max-width: 1200px;
     margin: 60px auto;
@@ -134,6 +137,8 @@ body {
 .right1 img {
     width: 100%;
 }
+
+
 .section2 {
     width: 1100px;
     margin: 80px auto;
@@ -213,6 +218,9 @@ body {
     margin-bottom: 15px;
     border-radius: 15px;
 }
+
+
+
 .section3 {
     width: 1100px;
     margin: 70px auto;
@@ -248,6 +256,11 @@ body {
 .top3 span {
     color: #247cff;
     font-size: 20px;
+}
+
+.top3 img {
+    width: 22px;
+    height: 22px;
 }
 
 .top3 h3 {
@@ -340,6 +353,9 @@ body {
     border-radius: 12px;
     font-size: 14px;
 }
+
+
+
 .section4 {
     width: 1100px;
     margin: 80px auto;
@@ -378,7 +394,7 @@ body {
 }
 
 .card4 {
-    width: 48%;
+    width: 45%;
     background: white;
     padding: 30px;
     border-radius: 16px;
@@ -409,6 +425,11 @@ body {
     font-size: 22px;
 }
 
+.icon4 img {
+    width: 30px;
+    height: 30px;
+}
+
 .blue4 {
     background: #247cff;
 }
@@ -420,6 +441,9 @@ body {
 .yellow4 {
     background: #f5a623;
 }
+
+
+
 .section5 {
     width: 1100px;
     margin: 80px auto;
@@ -436,7 +460,6 @@ body {
     font-size: 14px;
     margin-bottom: 10px;
 }
-
 .head5 h2 {
     color: #0b133b;
     font-size: 36px;
@@ -517,7 +540,6 @@ body {
     border-radius: 50%;
     font-size: 12px;
 }
-
 .card5 h3 {
     color: #171f46;
     font-size: 18px;
@@ -527,4 +549,135 @@ body {
 .card5 p {
     color: #7c829d;
     font-size: 13px;
+}
+
+
+.section6 {
+    width: 1100px;
+    margin: 80px auto;
+    padding: 40px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background: #eaf3ff;
+    font-family: Arial;
+}
+.buttons6
+
+.left6 {
+    width: 500px;
+}
+
+.p6 {
+    color: #247cff;
+    font-size: 14px;
+    margin-bottom: 15px;
+}
+
+.left6 h2 {
+    color: #0b133b;
+    font-size: 36px;
+    margin-bottom: 20px;
+}
+
+.text6 {
+    color: #656565;
+    font-size: 14px;
+    margin-bottom: 30px;
+}
+
+.buttons6 {
+    display: flex;
+    align-items: center;
+    gap: 15px;
+}
+
+.buttons6 button {
+    width: 152px;
+    height: 46px;
+    padding: 0;
+    border: none;
+    border-radius: 8px;
+    background: transparent;
+}
+
+.buttons6 img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+.right6 {
+    width: 400px;
+    display: flex;
+    justify-content: center;
+}
+
+.phone6 {
+    width: 260px;
+    height: 450px;
+    background: #171f46;
+    padding: 10px;
+    border-radius: 30px;
+}
+
+.screen6 {
+    height: 100%;
+    background: white;
+    border-radius: 22px;
+    padding: 30px 18px;
+}
+
+.new6 {
+    font-size: 10px;
+    color: #777;
+    text-align: right;
+    margin-bottom: 35px;
+}
+
+.new6 span {
+    color: #247cff;
+}
+
+.screen6 h2 {
+    color: #0b133b;
+    font-size: 25px;
+    margin-bottom: 30px;
+}
+
+.field6 {
+    margin-bottom: 20px;
+}
+
+.field6 p {
+    color: #777;
+    font-size: 11px;
+    margin-bottom: 8px;
+}
+
+.field6 div {
+    border: 1px solid #dce3ef;
+    border-radius: 7px;
+    padding: 12px 8px;
+    font-size: 10px;
+    color: #171f46;
+}
+
+.field6 div span {
+    float: right;
+    color: #247cff;
+}
+
+.field6 .forgot6 {
+    text-align: right;
+    color: #247cff;
+    margin-top: 8px;
+}
+
+.login6 {
+    width: 100%;
+    padding: 13px;
+    background: #247cff;
+    color: white;
+    border: none;
+    border-radius: 8px;
 }
