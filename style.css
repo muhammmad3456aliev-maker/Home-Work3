@@ -681,3 +681,78 @@ body {
     border: none;
     border-radius: 8px;
 }
+
+.section7 {
+    width: 1100px;
+    margin: 80px auto;
+    font-family: Arial, sans-serif;
+}
+
+.head7 {
+    text-align: center;
+    margin-bottom: 50px;
+}
+
+.p7 {
+    color: #247cff;
+    font-size: 14px;
+    margin-bottom: 10px;
+}
+
+.head7 h2 {
+    color: #0b133b;
+    font-size: 36px;
+}
+
+.cards7 {
+    display: flex;
+    justify-content: space-between;
+    gap: 30px;
+}
+
+.card7 {
+    width: 32%;
+}
+
+.img7 {
+    width: 100%;
+    height: 310px;
+    border-radius: 18px;
+    margin-bottom: 22px;
+}
+
+.img7 img {
+    width: 100%;
+    height: 100%;
+    border-radius: 18px;
+}
+
+.title7 {
+    display: flex;
+    align-items: flex-start;
+    gap: 12px;
+    margin-bottom: 12px;
+}
+
+.title7 span {
+    width: 22px;
+    height: 2px;
+    background: #f4b44c;
+    margin-top: 10px;
+}
+
+.title7 h3 {
+    color: #171f46;
+    font-size: 18px;
+    line-height: 1.4;
+}
+
+.link7 {
+    padding-left: 34px;
+    color: #656a83;
+    font-size: 13px;
+}
+
+.link7.active7 {
+    color: #247cff;
+}
